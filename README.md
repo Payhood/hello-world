@@ -10,3 +10,5 @@ GitHub.
 Ino alan ezafe kardam
 
 in khate dovom ro ham alan ezaf kardam
+
+in khate sevom ro tooye local readme-edits ezaf kardam.
