@@ -9,4 +9,4 @@ GitHub.
 
 Ino alan ezafe kardam
 
-This line added to this file in Payman remote branch
+This line added in local Payman
